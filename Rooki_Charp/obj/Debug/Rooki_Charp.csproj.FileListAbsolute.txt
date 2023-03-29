@@ -1,0 +1,7 @@
+D:\CSharp_Projects\Rooki_Charp\Rooki_Charp\bin\Debug\Rooki_Charp.exe.config
+D:\CSharp_Projects\Rooki_Charp\Rooki_Charp\bin\Debug\Rooki_Charp.exe
+D:\CSharp_Projects\Rooki_Charp\Rooki_Charp\bin\Debug\Rooki_Charp.pdb
+D:\CSharp_Projects\Rooki_Charp\Rooki_Charp\obj\Debug\Rooki_Charp.csproj.AssemblyReference.cache
+D:\CSharp_Projects\Rooki_Charp\Rooki_Charp\obj\Debug\Rooki_Charp.csproj.CoreCompileInputs.cache
+D:\CSharp_Projects\Rooki_Charp\Rooki_Charp\obj\Debug\Rooki_Charp.exe
+D:\CSharp_Projects\Rooki_Charp\Rooki_Charp\obj\Debug\Rooki_Charp.pdb
